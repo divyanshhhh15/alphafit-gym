@@ -1,8 +1,0 @@
-- [x] Inspect current style.css sections (premium/latest overrides)
-- [ ] Remove duplicate/repeated selector blocks
-- [ ] Merge repeated selectors into single final definitions
-- [ ] Remove/limit unnecessary !important; keep only where required
-- [ ] Merge duplicate media queries (991px/768px/etc.)
-- [ ] Remove redundant properties within selectors
-- [ ] Output a single cleaned style.css (no repetition)
-- [ ] Quick manual verification in index.html and contact.html
